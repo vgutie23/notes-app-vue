@@ -6,7 +6,7 @@
       @click="showToggle"
       class="opacity-70 transform transition-all hover:scale-105 hover:opacity-80"
     >
-      <ic:outline-add-box class="w-36 h-36" />
+      <ic:outline-add-box class="w-32 h-32" />
     </button>
   </div>
 </template>
