@@ -9,7 +9,7 @@
     <div class="flex justify-end space-x-2">
       <button
         @click="editNote(note)"
-        class="hover:text-yellow-400 hover:text-opacity-80"
+        class="hover:text-indigo-500 hover:text-opacity-80"
       >
         <uil:file-edit-alt />
       </button>
